@@ -1,3 +1,3 @@
-QA   https://edimax-app.github.io/Neton/Furuno/QA/AdHoc.html
+QA  https://appedxtestpass168.github.io/Neton/Android/Neton/Furuno/QA/AdHoc.html
 
-UAT5 https://edimax-app.github.io/Neton/Furuno/UAT5/AdHoc.html
+UAT5 https://appedxtestpass168.github.io/Neton/Android/Furuno/UAT5/AdHoc.html
