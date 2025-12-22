@@ -1,5 +1,5 @@
 Android<br>
-QA  https://appedxtestpass168.github.io/Neton/Android/QA/AdHoc.html<br>
+QA  https://appedxtestpass168.github.io/Neton/Android/Furuno/QA/AdHoc.html<br>
 
 <br>
 Lab https://appedxtestpass168.github.io/Neton/Android/LAB/AdHoc.html
