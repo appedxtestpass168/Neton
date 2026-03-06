@@ -13,5 +13,5 @@ iOS <br>
 UAT5 <br>
 https://appedxtestpass168.github.io/Neton/iOS/UAT5/AdHoc.html<BR>
 PROD <BR>
-https://appedxtestpass168.github.io/Neton/iOS/PROD/adHoc.html<BR>
+https://appedxtestpass168.github.io/Neton/iOS/PROD/AdHoc.html<BR>
 
