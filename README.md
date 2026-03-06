@@ -6,7 +6,7 @@ Lab https://appedxtestpass168.github.io/Neton/Android/LAB/AdHoc.html
 <br><br><br><br>
 UAT5 https://appedxtestpass168.github.io/Neton/Android/UAT5/AdHoc.html
 <br>
-PRDO https://appedxtestpass168.github.io/Neton/Android/PRDO/AdHoc.html
+PROD https://appedxtestpass168.github.io/Neton/Android/PROD/AdHoc.html
 <br><br><br><br><br><br>
 
 iOS <br>
